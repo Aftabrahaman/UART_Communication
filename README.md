@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/d55c80a5-e878-4411-b837-8b32ac2f278b)
+
 # UART_Communication
 Universal Asynchronous Receiver Transmitter (UART) is a hardware communication protocol that allows two devices to exchange serial data.
 
